@@ -1,31 +1,33 @@
-# Ecommerce Android App (APK Releases)
+# Ecommerce Android App (Flutter + WordPress)
 
-This repo is only for sharing APK builds of my Android ecommerce app. I’m a CSE student (24), and this is one of my personal projects that connects a Flutter app with a WordPress-based store through a small Node/Express middle layer for security. The backend is running on a VPS (cloud), not on this machine.
+If you are looking for a developer who can connect a modern Flutter Android app to a WordPress/WooCommerce store, this project shows what I deliver. I am a CSE student (24) building production-ready ecommerce experiences that sync products, carts, and orders across mobile and WordPress safely through a hardened Node/Express API. Hire me if you need a Flutter ecommerce engineer or want to modernize your WooCommerce store with a fast mobile app.
 
-## What the app does
-- Browse products from the main WordPress site
-- View product details with images, price, and stock info
-- Add to cart and place orders
-- Basic account features (login, order history)
+## Key Shopping Features
+- Product catalog synced from WordPress/WooCommerce with images, price, inventory, and variations
+- Rich product detail pages optimized for conversions on mobile devices
+- Secure cart, checkout, and order history powered by a custom Node/Express middleware
+- Account login, profile, and order tracking to keep customers informed
 
-## How it works (high level)
-- **Frontend**: Flutter Android app
-- **Main site**: WordPress (acts as the core ecommerce system)
-- **Middleman API**: Node/Express service (located in a `server` folder in the full project, runs with npm)
-- **Hosting**: API is deployed on the same VPS as the WordPress site
+## Tech Stack & Architecture
+- **Flutter Android app** for the full shopping experience and smooth animations
+- **WordPress + WooCommerce** as the authoritative ecommerce backend
+- **Node/Express middle layer** for authentication, rate limiting, and API hardening
+- **VPS hosting** for the API so I can control latency, SSL, and scaling
+- **REST/JSON** contracts between the app and middleware, making integration predictable for future features
 
-## Download & install
-- Go to the **Releases** section and download the latest APK.
-- On your Android phone: Settings → Security → allow “Install unknown apps”.
-- Install the APK and open the app.
+## Download & Install the Demo APK
+- Grab the latest APK from the **Releases** tab.
+- On Android go to Settings → Security → allow “Install unknown apps”.
+- Install, open, and explore the store experience.
 
-## Notes
-- This repo does **not** contain source code.
-- The APKs are for testing/demo purposes.
-- If you face a login or checkout issue, it’s likely related to the API or WordPress server status.
+## Freelance Services & Availability
+I help founders, agencies, and store owners build mobile commerce apps that plug into existing WordPress or headless backends. Typical engagements include:
+- Converting WooCommerce stores into Flutter apps ready for Play Store submission
+- Designing Node/Express or NestJS middleware for extra security layers
+- Performance tuning, push notifications, analytics, and CI/CD setup for ecommerce apps
 
-## Contact
-If you want to discuss the project or need a test account, reach out to me.
+## Work With Me
+Need a Flutter + WordPress ecommerce developer for your next project? Reach out for demos, estimates, or to discuss collaboration. I can share test accounts and deployment details privately.
 
 ## App Screenshots
 
