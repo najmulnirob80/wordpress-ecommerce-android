@@ -26,3 +26,21 @@ This repo is only for sharing APK builds of my Android ecommerce app. I’m a CS
 
 ## Contact
 If you want to discuss the project or need a test account, reach out to me.
+
+## App Screenshots
+
+![Screenshot 1](Screenshots/Screenshot_20260306_232613.jpg)
+![Screenshot 2](Screenshots/Screenshot_20260306_232621.jpg)
+![Screenshot 3](Screenshots/Screenshot_20260306_232628.jpg)
+![Screenshot 4](Screenshots/Screenshot_20260306_232649.jpg)
+![Screenshot 5](Screenshots/Screenshot_20260306_232707.jpg)
+![Screenshot 6](Screenshots/Screenshot_20260306_232711.jpg)
+![Screenshot 7](Screenshots/Screenshot_20260306_232717.jpg)
+![Screenshot 8](Screenshots/Screenshot_20260306_232727.jpg)
+![Screenshot 9](Screenshots/Screenshot_2026_0222_054624.jpg)
+![Screenshot 10](Screenshots/Screenshot_20260306_232428.jpg)
+![Screenshot 11](Screenshots/Screenshot_20260306_232438.jpg)
+![Screenshot 12](Screenshots/Screenshot_20260306_232444.jpg)
+![Screenshot 13](Screenshots/Screenshot_20260306_232508.jpg)
+![Screenshot 14](Screenshots/Screenshot_20260306_232524.jpg)
+![Screenshot 15](Screenshots/Screenshot_20260306_232609.jpg)
