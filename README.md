@@ -1,4 +1,4 @@
-#still in development
+# Still In Development
 
 # Ecommerce Android App (Flutter + WordPress) — APK Releases
 
@@ -47,4 +47,5 @@ If you need a similar Flutter ecommerce app connected to WordPress, feel free to
 ![Screenshot 13](Screenshots/Screenshot_20260306_232508.jpg)
 ![Screenshot 14](Screenshots/Screenshot_20260306_232524.jpg)
 ![Screenshot 15](Screenshots/Screenshot_20260306_232609.jpg)
+
 
