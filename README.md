@@ -1,3 +1,5 @@
+#still in development
+
 # Ecommerce Android App (Flutter + WordPress) — APK Releases
 
 This repository hosts APK releases of my Android ecommerce app built with Flutter and connected to a WordPress store through a secure Node/Express API layer. The backend runs on a VPS (cloud). Source code is not included here.
@@ -45,3 +47,4 @@ If you need a similar Flutter ecommerce app connected to WordPress, feel free to
 ![Screenshot 13](Screenshots/Screenshot_20260306_232508.jpg)
 ![Screenshot 14](Screenshots/Screenshot_20260306_232524.jpg)
 ![Screenshot 15](Screenshots/Screenshot_20260306_232609.jpg)
+
